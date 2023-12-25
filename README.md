@@ -1,3 +1,3 @@
-# FIVEM JOB LOGGER
+# salty-potato the webapp
 
-This is an app to allow fivem roleplayers a place to easily log the hours they work in game jobs
+what will it do? only the Great Digi knows :shrug:
